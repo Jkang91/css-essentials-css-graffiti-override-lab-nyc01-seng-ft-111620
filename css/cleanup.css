@@ -18,4 +18,4 @@
   display: none;
 }
 
-#wall .parent div + div
+#wall .parent div + div:last-child #tag-6
