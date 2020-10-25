@@ -1,15 +1,12 @@
 #wall .tag-1 {
-  background: url(../images/tag-1.png) no-repeat;
-  z-index: 7;
-  display: none;
+ display: none;
 }
 
 #wall .tag-1 + #tag-2 {
-  background: url(../images/tag-2.png) no-repeat;
-  z-index: 6;
-  display: none;
+ display: none;
 }
 
 #wall #tag-3.slick.wicked {
   display: none;
 }
+
